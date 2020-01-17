@@ -1,5 +1,5 @@
 html {
-    background: url(../assets/blur40.jpg) no-repeat center center fixed;
+    background: url(../assets/profile.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -11,7 +11,7 @@ html {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Permanent Marker', cursive;
-    color: #fff;
+    color: #e0e0e0;
     text-shadow: #8e8e8e 1px 1px;
 }
 
@@ -21,8 +21,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a {
-    color: #fff !important;
-    text-decoration: none;
+    color: #e0e0e0 !important;
+    text-decoration: none;    
+    text-shadow: #8e8e8e 1px 1px;
 }
 
 a:hover {
@@ -39,5 +40,3 @@ a:hover {
         font-size: 1.8rem;
     }
 }
-
-
